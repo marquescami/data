@@ -1,0 +1,19 @@
+"diagnóstico específico";"RO";"AC";"AM";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"Outros CID’s não listados";-;-;-;-;-;-;-;-;3;-;5;1;1;-;7;8;-;5;1;2;4;4;-;-;1;42
+"CID não preenchido";9;-;3;3;2;4;-;2;22;4;5;9;3;-;17;26;17;29;11;3;16;5;1;3;1;195
+"Trans mentais orgânicos, inclu sintom (F00-F09)";-;1;-;-;-;-;-;-;-;-;-;-;1;-;2;1;1;-;4;-;-;-;-;-;-;10
+"Trans ment e comp devid uso de subst psico F10-F19";-;-;-;-;-;-;-;-;3;-;-;-;10;-;2;1;-;1;2;-;1;2;-;-;-;22
+"Esquizo, trans esquiz e trans delirantes F20-F29";-;-;-;-;-;-;-;-;-;-;1;-;6;-;6;4;-;2;-;-;-;-;-;-;-;19
+"Transtornos do humor [afetivos] (F30-F39)";1;1;3;10;-;3;3;-;24;13;31;7;49;-;51;187;8;91;20;1;20;13;-;7;1;544
+"Trans neurót, trans rel com stress e somat F40-F48";12;2;4;16;-;3;7;-;35;69;54;28;92;6;122;319;16;196;91;29;48;27;1;15;-;1192
+"Sínd comport assoc a disf fisio e fat físi F50-F59";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;12;-;-;-;-;-;-;-;14
+"Trans da persona e do comport do adulto (F60-F69)";-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;-;1;-;-;-;-;-;-;-;5
+"Retardo mental (F70-F79)";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;2
+"Transt comport e emoc da infân ou a adoles F90-F98";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1
+"Transtorno mental não especificado (F99-F99)";2;-;1;-;-;2;-;-;9;-;-;8;-;1;12;13;-;14;6;-;18;11;-;-;1;98
+"Sint e sinais rel à cogn percep e comport R40-R46";-;-;1;-;-;-;-;-;-;-;-;1;-;3;-;62;-;4;-;-;2;-;-;1;-;74
+"Lesões autoprovocadas intencionalmente (X60-X84)";-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1;1;-;-;-;3
+"Risc poten à saúd rel circun socio e psico Z55-Z65";-;1;-;-;-;-;1;1;-;-;-;-;4;-;1;16;2;15;1;2;14;1;-;-;-;59
+"Circunstância relativa às condi de trabalho(Y96)";-;-;-;-;-;-;-;-;-;-;-;-;3;-;2;15;-;-;-;-;3;1;-;3;1;28
+"Síndrome de Burnout (Esgotamento) (Z73.0)";3;1;-;-;-;1;1;-;7;3;6;11;2;1;20;29;20;91;5;10;13;1;1;1;-;227
+"Total";27;6;12;29;2;13;12;3;103;90;104;65;171;11;245;684;64;462;141;47;140;66;3;30;5;2535
